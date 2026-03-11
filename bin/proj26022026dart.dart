@@ -1,5 +1,3 @@
-import 'dart:io';
-
 import 'package:proj26022026dart/proj26022026dart.dart' as proj26022026dart;
 
 void main(List<String> arguments) {
